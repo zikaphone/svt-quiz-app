@@ -1,7 +1,7 @@
 # 🧬 Application d’évaluation formative en SVT
 
 > Une application interactive et pédagogique destinée aux élèves du lycée marocain pour l’autoévaluation en Sciences de la Vie et de la Terre (SVT).
-
+créée par : https://www.yazawaj.com company
 ---
 
 ## 🎯 Objectif du projet
@@ -86,4 +86,5 @@ npm install
 
 # Lancer l'application
 npm start
+
 
