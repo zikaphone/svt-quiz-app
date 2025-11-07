@@ -1,0 +1,32 @@
+[
+  {
+  "id": "course_2bac_sp_3",
+  "title": "Écologie",
+  "description": "Introduction aux concepts fondamentaux de l'écologie, étude des relations entre les êtres vivants et leur environnement, notions de population, communauté et écosystème.",
+  "totalDuration": 8,
+  "knowledge": [
+    "Définition de l'écologie et de ses objectifs",
+    "Relations entre les êtres vivants et leur milieu",
+    "Notions de population, communauté et écosystème",
+    "Flux d'énergie dans les écosystèmes",
+    "Cycles biogéochimiques essentiels (carbone, azote, eau)",
+    "Impacts humains sur les écosystèmes"
+  ],
+  "skills": [
+    "Observer et décrire les interactions entre organismes et environnement",
+    "Analyser les chaînes alimentaires et réseaux trophiques",
+    "Interpréter des données écologiques simples",
+    "Comprendre l'importance de la biodiversité et de la conservation"
+  ],
+  "attitudes": [
+    "Respect de la nature et des équilibres écologiques",
+    "Sensibilisation aux enjeux environnementaux",
+    "Esprit critique face aux impacts humains sur l'environnement"
+  ],
+  "prerequisites": [
+    "Connaissances de base en biologie cellulaire",
+    "Notions élémentaires de biologie animale et végétale"
+  ]
+}
+
+]

@@ -1,0 +1,16 @@
+{
+      "name": "",
+      "email": "",
+      "role":"",
+      "currentQuiz":  null,
+      "nextQuiz": null,
+      "stats": {
+        "completedQuizzes": 0,
+        "averageScore": 0,
+        "skillsMastered": 0,
+        "attitudesMastered": 0,
+        "knowledgeMastered": 0,
+        "acquisitionPercentage": []
+      },
+      "pastQuizzes": []
+    }

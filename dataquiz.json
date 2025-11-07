@@ -1,0 +1,323 @@
+[
+  {
+    "id": "quiz_2bac_sp_3_1",
+    "moduleId": "module_2bac_sp_3",
+    "createdBy": "qUKPFpv4AumtGuUuVi0s",
+    "published": true,
+    "title": "Les bases de l'écologie",
+    "questions": [
+      {
+        "text": "L'écologie est l'étude des interactions entre les organismes et leur environnement.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [0],
+        "cibledSkillsIndexes": [0],
+        "cibledAttitudesIndexs": [0,1],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Quelle est la définition d'un écosystème ?",
+        "type": 0,
+        "correctIndex": 1,
+        "point": 2,
+        "options": [
+          "Un groupe d'individus de la même espèce",
+          "Un ensemble d'organismes vivants et leur milieu",
+          "Une chaîne alimentaire",
+          "Un type de biotope"
+        ],
+        "cibledKnowledgeIndexes": [2],
+        "cibledSkillsIndexes": [0],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Complétez : Le flux d'énergie dans un écosystème se fait du ___ vers les consommateurs.",
+        "type": 2,
+        "correctIndex": null,
+        "point": 2,
+        "options": [],
+        "cibledKnowledgeIndexes": [3],
+        "cibledSkillsIndexes": [1],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Les cycles biogéochimiques incluent le cycle du carbone, de l'azote et de l'eau.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [4],
+        "cibledSkillsIndexes": [2],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Une population désigne un ensemble d'individus de la même espèce vivant dans un même lieu.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [2],
+        "cibledSkillsIndexes": [0],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Quels sont les impacts négatifs de l'activité humaine sur l'environnement ?",
+        "type": 0,
+        "correctIndex": 2,
+        "point": 2,
+        "options": [
+          "Conservation des habitats naturels",
+          "Augmentation de la biodiversité",
+          "Pollution et déforestation",
+          "Recyclage des déchets"
+        ],
+        "cibledKnowledgeIndexes": [5],
+        "cibledSkillsIndexes": [3],
+        "cibledAttitudesIndexs": [1,2],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "La biodiversité correspond à la variété des espèces vivantes sur Terre.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [4],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [0],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Complétez : La chaîne alimentaire commence toujours par les ___.",
+        "type": 2,
+        "correctIndex": null,
+        "point": 2,
+        "options": [],
+        "cibledKnowledgeIndexes": [3],
+        "cibledSkillsIndexes": [1],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      }
+    ]
+  },
+  {
+    "id": "quiz_2bac_sp_3_2",
+    "moduleId": "module_2bac_sp_3",
+    "createdBy": "qUKPFpv4AumtGuUuVi0s",
+    "published": true,
+    "title": "Relations écologiques et écosystèmes",
+    "questions": [
+      {
+        "text": "Une communauté écologique est constituée de plusieurs populations différentes vivant ensemble.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [2],
+        "cibledSkillsIndexes": [0],
+        "cibledAttitudesIndexs": [0],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Quel terme décrit les organismes producteurs dans un écosystème ?",
+        "type": 0,
+        "correctIndex": 1,
+        "point": 2,
+        "options": [
+          "Consommateurs",
+          "Producteurs",
+          "Décomposeurs",
+          "Prédateurs"
+        ],
+        "cibledKnowledgeIndexes": [3],
+        "cibledSkillsIndexes": [0],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Les décomposeurs transforment la matière organique morte en éléments minéraux.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [3],
+        "cibledSkillsIndexes": [0],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Complétez : Le réseau trophique est constitué de plusieurs chaînes alimentaires ___ reliées entre elles.",
+        "type": 2,
+        "correctIndex": null,
+        "point": 2,
+        "options": [],
+        "cibledKnowledgeIndexes": [3],
+        "cibledSkillsIndexes": [1],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Les producteurs utilisent l'énergie solaire pour fabriquer leur nourriture par photosynthèse.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [3],
+        "cibledSkillsIndexes": [0,1],
+        "cibledAttitudesIndexs": [0],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Quels sont les principaux cycles biogéochimiques dans un écosystème ?",
+        "type": 0,
+        "correctIndex": 2,
+        "point": 2,
+        "options": [
+          "Cycle de l'oxygène",
+          "Cycle de l'hydrogène",
+          "Cycles du carbone, de l'azote et de l'eau",
+          "Cycle du soufre"
+        ],
+        "cibledKnowledgeIndexes": [4],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "La pollution de l'eau peut perturber les écosystèmes aquatiques.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [5],
+        "cibledSkillsIndexes": [3],
+        "cibledAttitudesIndexs": [1,2],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Complétez : La biodiversité est essentielle pour la ___ et la résilience des écosystèmes.",
+        "type": 2,
+        "correctIndex": null,
+        "point": 2,
+        "options": [],
+        "cibledKnowledgeIndexes": [4],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [0,1],
+        "prerequisitesIndexes": []
+      }
+    ]
+  },
+  {
+    "id": "quiz_2bac_sp_3_3",
+    "moduleId": "module_2bac_sp_3",
+    "createdBy": "qUKPFpv4AumtGuUuVi0s",
+    "published": true,
+    "title": "Enjeux environnementaux et conservation",
+    "questions": [
+      {
+        "text": "La déforestation est une cause majeure de la perte de biodiversité.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [5],
+        "cibledSkillsIndexes": [3],
+        "cibledAttitudesIndexs": [1,2],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Les zones protégées contribuent à la conservation des espèces et des habitats naturels.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [5],
+        "cibledSkillsIndexes": [3],
+        "cibledAttitudesIndexs": [0,1],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Complétez : L'effet ___ est une augmentation de la température moyenne de la Terre due aux gaz à effet de serre.",
+        "type": 2,
+        "correctIndex": null,
+        "point": 2,
+        "options": [],
+        "cibledKnowledgeIndexes": [5],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [1,2],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "La biodiversité inclut la diversité génétique, des espèces et des écosystèmes.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [4],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [0],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Quels sont les principaux gaz à effet de serre responsables du changement climatique ?",
+        "type": 0,
+        "correctIndex": 1,
+        "point": 2,
+        "options": [
+          "Oxygène et azote",
+          "Dioxyde de carbone, méthane, vapeur d'eau",
+          "Hydrogène et hélium",
+          "Ozone et chlorofluorocarbures"
+        ],
+        "cibledKnowledgeIndexes": [5],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [1],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Complétez : Le développement durable vise à répondre aux besoins du présent sans compromettre ceux des ___.",
+        "type": 2,
+        "correctIndex": null,
+        "point": 2,
+        "options": [],
+        "cibledKnowledgeIndexes": [5],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [1,2],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "La sensibilisation à l'environnement est essentielle pour changer les comportements humains.",
+        "type": 1,
+        "correctIndex": 0,
+        "point": 1,
+        "options": ["Vrai", "Faux"],
+        "cibledKnowledgeIndexes": [],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [1,2],
+        "prerequisitesIndexes": []
+      },
+      {
+        "text": "Quels sont les moyens de préserver la biodiversité ?",
+        "type": 0,
+        "correctIndex": 0,
+        "point": 2,
+        "options": [
+          "Créer des réserves naturelles",
+          "Augmenter la pollution",
+          "Déforestation massive",
+          "Surexploitation des ressources"
+        ],
+        "cibledKnowledgeIndexes": [5],
+        "cibledSkillsIndexes": [],
+        "cibledAttitudesIndexs": [0,1],
+        "prerequisitesIndexes": []
+      }
+    ]
+  }
+]
